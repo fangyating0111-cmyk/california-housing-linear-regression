@@ -165,7 +165,7 @@ joblib.dump(model, 'models/model.pkl')
 
 ## 👨‍💻 作者
 
-* Name: 方雅婷
+* Name: 枫叶糖
 * GitHub: https://github.com/fangyating0111-cmyk
 
 ---
